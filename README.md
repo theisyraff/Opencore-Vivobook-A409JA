@@ -10,13 +10,13 @@ What things works with this file?
 - Trackpad
 - Brightness and Volume key
 - USB Camera
-- Audio (Stereo and Mic available, but no USB Headphone and Audio Jack audio)
+- Audio (Stereo and Mic available, but no Audio Jack audio)
 - WiFi Networking and Bluetooth (Buggy Bluetooth Audio on a TWS Earphone, No AirDrop AirPlay Handoff etc)
 - Siri is working perfectly well
-- Sleep is buggy, sometimes work, but sometimes leave you with black screen.
+- Sleep works perfectly well (NEW)
 - On Catalina and above, DRM is broken, I have to wait for next WhateverGreen patch update.
 - AppleTV+ is not working with broken DRM, so do Amazon Prime Video and Netflix I guess.
-- Have graphics acceleration, but maybe buggy (screen flickers before login page appear, sometimes blank screen after boot)
+- Full graphics acceleration.
 - Battery indicators correctly shown.
 - Direct Booting, no bootpicker, suitable for users who wants a quicker boot (without dual-booting) without the need to have a checkpoint on boot picker. (Please press ALT in case you're dual-booting or change Misc > Boot > ShowPicker (True).
 
